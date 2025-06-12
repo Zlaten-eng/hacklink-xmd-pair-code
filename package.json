@@ -1,5 +1,5 @@
 {
-  "description": "gifted-pair-code",
+  "description": "hacklink-xmd-pair-code",
   "main": "./gifted.js",
   "type": "commonjs",
   "engines": {
@@ -7,8 +7,8 @@
   },
   "scripts": {
     "start": "pm2 start gifted.js --deep-monitoring --attach --name gifted",
-    "stop": "pm2 stop gifted",
-    "restart": "pm2 restart gifted"
+    "stop": "pm2 stop hacklink-xmd",
+    "restart": "pm2 restart hacklink-xmd"
   },
   "author": "Gifted Tech",
   "license": "GPL-3.0 license",
