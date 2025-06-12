@@ -1,9 +1,9 @@
 {
-    "name": "Gifted Session Generator",
+    "name": "HACKLINK-XMD Session Generator",
     "description": "Web Session Generator",
-    "logo": "https://files.catbox.moe/52699c.jpg",
-    "repository": "https://github.com/mauricegift/gifted-pair-code",
-    "keywords": ["Gifted-Tech"],
+    "logo": "https://files.catbox.moe/atcy5w.jpg",
+    "repository": "https://github.com/Zlaten-eng/hacklink-xmd-pair-code",
+    "keywords": ["HACKLINK TECH.INC"],
     "success_url": "/", 
     "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
     "env": {      
